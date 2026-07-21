@@ -1,16 +1,21 @@
-## Hi there 👋
+##👋 Olá! Eu sou o Osvaldo Moura Neto
 
-<!--
-**OsvaldoMN/OsvaldoMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do último período de Ciência da Computação.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor focado em Java, Spring Boot e sistemas web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias
+• Java
+• Spring Boot
+• MySQL
+• Next.js
+• Git
+
+📌 Projetos
+🚛 FlowStock WMS
+🏦 Projeto Sicoob
+🍽 CHEFFIA
+
+📫 Contato
+LinkedIn
+Email
