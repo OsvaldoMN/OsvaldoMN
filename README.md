@@ -14,7 +14,7 @@ Desenvolvedor backend com foco em Java e Spring Boot. Estou no último período 
 |---|---|---|
 | [Agrios](https://github.com/OsvaldoMN/agrios) | Trabalho de Conclusão de Curso. Sistema de gestão de ordens de serviço agrícolas com: Cadastro de entidades, Lançamento de OSs, Contas a Receber, Relatórios e Backup. | Java, Spring Boot |
 | [FlowStock WMS]() | Sistema de gerenciamento de armazém para controle de estoque, entradas e saídas. | Java, Spring Boot, MySQL |
-| [Projeto Sicoob](https://github.com/OsvaldoMN/Projeto-Sicoob) | Descreva em uma linha o problema que o projeto resolve. | PHP, MySQL |
+| [Projeto Sicoob](https://github.com/OsvaldoMN/Projeto-Sicoob) | Uma aplicação para os Totens da Sicoob Monticreedi. | PHP, MySQL |
 
 ## Contato
 
