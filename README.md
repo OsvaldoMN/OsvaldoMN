@@ -1,21 +1,22 @@
-##👋 Olá! Eu sou o Osvaldo Moura Neto
+# Osvaldo Moura Neto
 
-🎓 Estudante do último período de Ciência da Computação.
+Desenvolvedor backend com foco em Java e Spring Boot. Estou no último período de Ciência da Computação e trabalho principalmente com APIs REST, modelagem de banco de dados e aplicações web.
 
-💻 Desenvolvedor focado em Java, Spring Boot e sistemas web.
+## Stack
 
-🚀 Tecnologias
-• Java
-• Spring Boot
-• MySQL
-• Next.js
-• Git
+**Backend:** Java, Spring Boot
+**Banco de dados:** MySQL
+**Ferramentas:** Git
 
-📌 Projetos
-🚛 FlowStock WMS
-🏦 Projeto Sicoob
-🍽 CHEFFIA
+## Projetos
 
-📫 Contato
-LinkedIn
-Email
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Agrios](https://github.com/OsvaldoMN/agrios) | Trabalho de Conclusão de Curso. Sistema de gestão de ordens de serviço agrícolas com: Cadastro de entidades, Lançamento de OSs, Contas a Receber, Relatórios e Backup. | Java, Spring Boot |
+| [FlowStock WMS]() | Sistema de gerenciamento de armazém para controle de estoque, entradas e saídas. | Java, Spring Boot, MySQL |
+| [Projeto Sicoob](https://github.com/OsvaldoMN/Projeto-Sicoob) | Descreva em uma linha o problema que o projeto resolve. | PHP, MySQL |
+
+## Contato
+
+- LinkedIn: (https://www.linkedin.com/in/osvaldomn/)
+- E-mail: (osvaldomouraneto2005@gmail.com)
